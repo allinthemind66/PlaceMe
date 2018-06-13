@@ -1,24 +1,17 @@
-# README
+## PlaceMe
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+PlaceMe is a web app designed to connect people by where they have been, and where they will go. Life is a constantly unfolding story. Where will you go next?
 
-Things you may want to cover:
+## Motivation
 
-* Ruby version
+This was a student project using Ruby On Rails. Me and my partner wanted to connect people based on where they have lived or visited in the past and where they will go next.
 
-* System dependencies
+## Live Demo
 
-* Configuration
+https://placemeapp.herokuapp.com/
 
-* Database creation
 
-* Database initialization
+## Tech/framework used
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<b>Built with</b>
+- [Ruby On Rails](https://rubyonrails.org/)
